@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Vasilchenko"
+  given-names: "George"
+title: "Tic Tac Toe"
+version: 1.0.0
+date-released: 2022-09-08
+url: "https://github.com/george-vasilchenko/tic-tac-toe"
